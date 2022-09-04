@@ -1,7 +1,8 @@
 ### Olá, eu sou o Matheus Vidal 👋
 
-- 🔭 Hoje trabalho com frontend
-- 🌱 Estudando javascript
+- 🔭 Sou apaixonado por **Desenvolvimento Web e Design**
+- 🌱 Atualmente estou constantemente estudando **javascript e react**
+- 👨‍💻 Sou graduando em **Tecnologia da Informação**
 - 😄 Pronouns: ele/dele
 
 <div align="center">
