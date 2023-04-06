@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Vidal 👋
 
-- 🔭 Sou apaixonado por **Desenvolvimento Web e Design**
-- 🌱 Atualmente estou constantemente estudando **javascript e react**
+- 🔭 Amante de **Programação e Design**
+- 🌱 Atualmente estou constantemente estudando **C++**
 - 👨‍💻 Sou graduando em **Tecnologia da Informação**
 - 😄 Pronouns: ele/dele
 
