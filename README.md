@@ -18,11 +18,15 @@
 </div>
   
   ##
+
+💡 Tenho um grande entusiasmo por aprender e crescer na área de desenvolvimento de software. Sempre busco projetos interessantes e colaborativos para aprimorar minhas habilidades e compartilhar conhecimento com outros desenvolvedores.
+
+📚 Gosto de me manter atualizado sobre as últimas tendências em programação, ler sobre novas tecnologias e acompanhar o mundo do design. Acredito na importância da combinação entre uma boa lógica de programação e uma estética visual apurada.
+
+🚀 Meu perfil no GitHub é o lugar onde compartilho meus projetos, contribuições e experimentos. Fique à vontade para explorar, fazer fork dos meus repositórios e deixar feedback. Estou sempre aberto a colaborações e oportunidades de aprendizado conjunto.
  
 <div> 
   <a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusvidal140@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="hhttps://www.linkedin.com/in/matheus-vidal-38ab70144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
