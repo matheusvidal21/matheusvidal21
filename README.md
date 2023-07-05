@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Vidal 👋
 
 - 🔭 Amante de **Programação e Design**
-- 🌱 Atualmente estou constantemente estudando **C++**
+- 🌱 Atualmente estou constantemente estudando **C++ e Java**
 - 👨‍💻 Sou graduando em **Tecnologia da Informação**
 
 💡 Tenho um grande entusiasmo por aprender e crescer na área de desenvolvimento de software. Sempre busco projetos interessantes e colaborativos para aprimorar minhas habilidades e compartilhar conhecimento com outros desenvolvedores.
