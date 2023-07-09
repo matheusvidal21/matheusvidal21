@@ -4,9 +4,7 @@
 - 🌱 Atualmente estou constantemente estudando **C++ e Java**
 - 👨‍💻 Sou graduando em **Tecnologia da Informação**
 
-💡 Tenho um grande entusiasmo por aprender e crescer na área de desenvolvimento de software. Sempre busco projetos interessantes e colaborativos para aprimorar minhas habilidades e compartilhar conhecimento com outros desenvolvedores.
-
-📚 Gosto de me manter atualizado sobre as últimas tendências em programação, ler sobre novas tecnologias e acompanhar o mundo do design. Acredito na importância da combinação entre uma boa lógica de programação e uma estética visual apurada.
+💡 Tenho um grande entusiasmo por aprender e crescer na área de desenvolvimento de software. Sempre busco projetos interessantes e colaborativos para aprimorar minhas habilidades e compartilhar conhecimento com outros desenvolvedores.Gosto de me manter atualizado sobre as últimas tendências em programação, ler sobre novas tecnologias e acompanhar o mundo do design. Acredito na importância da combinação entre uma boa lógica de programação e uma estética visual apurada.
 
 🚀 Meu perfil no GitHub é o lugar onde compartilho meus projetos, contribuições e experimentos. Fique à vontade para explorar, fazer fork dos meus repositórios e deixar feedback. Estou sempre aberto a colaborações e oportunidades de aprendizado conjunto.
 
@@ -20,6 +18,7 @@
 
 
 <div style="display: inline_block" align="center"><br>
+ <img align="center" alt="JAVA" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="CPP" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
