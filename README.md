@@ -5,39 +5,37 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvidal21&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=BA55D3&bg_color=0d1117" alt="Matheus Vidal github stats" /> 
+   <!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvidal21&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=BA55D3&bg_color=0d1117" alt="Matheus Vidal github stats" /> -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvidal21&layout=compact&hide_border=true&title_color=9932CC&text_color=BA55D3&bg_color=0d1117" />
 </div>
 
 
 ### Main skills:
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=black)&nbsp; 
-![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
-![GNU BASH](https://img.shields.io/badge/GNU%20Bash-0D1117?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp; 
-![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp; 
-![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp; 
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=BA55D3)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=BA55D3)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BA55D3)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=BA55D3)&nbsp; 
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=BA55D3)&nbsp; 
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=BA55D3)&nbsp; 
+![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=BA55D3)&nbsp; 
+![GNU BASH](https://img.shields.io/badge/GNU%20Bash-0D1117?style=for-the-badge&logo=GNU%20Bash&logoColor=BA55D3)&nbsp; 
+![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=BA55D3)&nbsp; 
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=BA55D3)&nbsp; 
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
-
-
-<div align="center"> 
-<a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:matheusvidal140@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-vidal-38ab70144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+![Java](https://img.shields.io/badge/Java-9400D3?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-9400D3?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusvidal21}/count.svg" /></p> 
 <br>
+</div>
+
+<div align="center"> 
+<a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:matheusvidal140@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-vidal-38ab70144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 
