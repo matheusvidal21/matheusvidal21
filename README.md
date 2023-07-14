@@ -32,18 +32,17 @@
 ![snake gif](https://github.com/matheusvidal21/matheusvidal21/blob/output/github-contribution-grid-snake.svg)
 
 
+<div align="center"> 
+<a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230d1117?style=for-the-badge&logo=instagram&logoColor=BA55D3"</a>
+<a href = "mailto:matheusvidal140@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=BA55D3" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-vidal-38ab70144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=BA55D3" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusvidal21}/count.svg" /></p> 
 <br>
-</div>
-
-<div align="center"> 
-<a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:matheusvidal140@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-vidal-38ab70144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
    
 
 
