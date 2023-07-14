@@ -26,8 +26,6 @@
 ![Java](https://img.shields.io/badge/Java-9400D3?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-9400D3?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-![Snake animation](https://github.com/matheusvidal21/matheusvidal21/blob/output/github-contribution-grid-snake.svg)
-
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
