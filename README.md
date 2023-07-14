@@ -1,6 +1,4 @@
-![Snake animation](https://github.com/matheusvidal21/matheusvidal21/blob/output/github-contribution-grid-snake.svg)
 
-<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Vidal;I'm+18+years+old;I'm+from+Brazil;I'm+a+graduate+in+Information+Technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -28,6 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-9400D3?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-9400D3?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
+![Snake animation](https://github.com/matheusvidal21/matheusvidal21/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
@@ -45,7 +44,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
--->
+
 
 <!---->
 
