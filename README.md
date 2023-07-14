@@ -6,9 +6,12 @@
 
 
 <div align="center">  
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvidal21&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=BA55D3&bg_color=0d1117" alt="Matheus Vidal github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvidal21&layout=compact&hide_border=true&title_color=9932CC&text_color=BA55D3&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvidal21&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=F1E8F8&bg_color=0d1117" alt="Matheus Vidal github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvidal21&layout=compact&hide_border=true&title_color=9932CC&text_color=F1E8F8&bg_color=0d1117" />
 </div>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusvidal21&bg_color=0d1117&color=BA55D3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Main skills:
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=BA55D3)&nbsp;
