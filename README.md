@@ -48,11 +48,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
 
-![Snake animation](https://github.com/matheusvidal21/matheusvidal21/blob/output/github-contribution-grid-snake.svg)
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=matheusvidal21&repo=matheusvidal21&itheme=react)](https://github.com/matheusvidal21/matheusvidal21)
-
 
 
 <!---->
