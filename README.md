@@ -14,20 +14,27 @@
 
 
 ### Main skills:
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BA55D3)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=BA55D3)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=BA55D3)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BA55D3)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=BA55D3)&nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=BA55D3)&nbsp; 
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=BA55D3)&nbsp; 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=BA55D3)
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=BA55D3)&nbsp; 
+![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=BA55D3)
 ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-0D1117?style=for-the-badge&logo=GNU%20Bash&logoColor=BA55D3)&nbsp; 
 ![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=BA55D3)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=BA55D3)&nbsp; 
+![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=BA55D3)
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-9400D3?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-9400D3?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-9400D3?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-9400D3?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-9400D3?style=for-the-badge&logo=swagger&logoColor=white)
+
 
 
 
