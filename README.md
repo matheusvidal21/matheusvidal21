@@ -44,14 +44,6 @@
 <a href="https://www.linkedin.com/in/matheus-vidal-38ab70144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=BA55D3" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusvidal21}/count.svg" /></p> 
-<br>
-   
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
 
