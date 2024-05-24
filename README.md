@@ -16,6 +16,7 @@
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BA55D3)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=BA55D3)&nbsp;
+![Go](https://img.shields.io/badge/go-0D1117.svg?style=for-the-badge&logo=go&logoColor=BA55D3&fontColor=BA55D3)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=BA55D3)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=BA55D3)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=BA55D3)&nbsp; 
@@ -26,14 +27,18 @@
 ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=BA55D3)
 ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-0D1117?style=for-the-badge&logo=GNU%20Bash&logoColor=BA55D3)&nbsp; 
 ![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=BA55D3)&nbsp; 
-![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=BA55D3)&nbsp; 
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=BA55D3)
-
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=BA55D3)
+![JavaFX](https://img.shields.io/badge/javafx-0D1117.svg?style=for-the-badge&logo=javafx&logoColor=BA55D3)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=BA55D3)
+![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=BA55D3)
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=BA55D3)
+ 
 ### Studying in this moment:
 ![Spring](https://img.shields.io/badge/Spring-9400D3?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-9400D3?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-9400D3?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-9400D3?style=for-the-badge&logo=swagger&logoColor=white)
+![Go](https://img.shields.io/badge/go-9400D3.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 
